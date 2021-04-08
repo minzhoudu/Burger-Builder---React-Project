@@ -1,0 +1,13 @@
+$orange-clr: #cf8f2e;
+$grey: #ccc;
+
+.BuildControls {
+  width: 100%;
+  background-color: $orange-clr;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  box-shadow: 0 2px 1px $grey;
+  margin: auto;
+  padding: 10px 0;
+}
